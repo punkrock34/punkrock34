@@ -25,7 +25,7 @@
 Additional skills include C, C++, C#, Java, Vue.js, Laravel, Tailwind CSS, MongoDB, SQL, Git, JSON, HTML, CSS, and more. Experienced with various frameworks and tools in web development and software engineering.
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats-p7thrmzwt-punkrock34s-projects.vercel.app/api?username=punkrock34&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=punkrock34&show_icons=true&theme=radical)
 
 ## Education and Certifications
 [![University](https://img.shields.io/badge/University-Universitatea_din_Oradea-blue?style=for-the-badge)](https://ieti.uoradea.ro/ro/)
