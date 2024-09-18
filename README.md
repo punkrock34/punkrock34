@@ -45,6 +45,6 @@ Full Stack Developer | Contractor at [ItaliaMultimedia](https://italiamultimedia
   <a href="mailto:razvan_popus@yahoo.ro"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Yahoo Mail"></a>
   <a href="mailto:popusrazvan335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
----
+<hr/.
 
 Open to collaborating on interesting projects. Feel free to reach out!
