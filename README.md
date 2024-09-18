@@ -35,17 +35,16 @@ Full Stack Developer | Contractor at [ItaliaMultimedia](https://italiamultimedia
   <a href="https://digitalnation.ro"><img src="https://img.shields.io/badge/Digital_Nation-4285F4?style=for-the-badge" alt="Digital Nation"></a>  
   [View Certificate](https://drive.google.com/file/d/1IptZQrS-pmaEtLa2kySmGs49IBFK5p5K/view)
 
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=punkrock34&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF)
+
 ## Contact
 
 <div style="display: flex; gap: 10px;">
   <a href="mailto:razvan_popus@yahoo.ro"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Yahoo Mail"></a>
   <a href="mailto:popusrazvan335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=punkrock34&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF)
-
 ---
 
 Open to collaborating on interesting projects. Feel free to reach out!
